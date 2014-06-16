@@ -1,0 +1,8 @@
+{
+    "domain":   "example.com",
+    "server":   "example.com",
+    "port":     5222,
+    "user":     "user",
+    "pass":     "pass",
+    "resource": "python-bot1"
+}
